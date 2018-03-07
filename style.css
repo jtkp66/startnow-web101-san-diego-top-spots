@@ -1,0 +1,14 @@
+h1 {
+    border: 5px solid rgb(175, 132, 76);
+    text-align: center;
+    color: rgb(83, 77, 69);
+}
+body {
+    /* background-image: url("ob.jpg"); */
+    background-color: rgba(180, 177, 166, 0.712);
+}
+th {
+    background-color: rgb(175, 132, 76);
+    color: white;
+}
+tr:nth-child(even) {background-color: #ddd9c3d5;}
